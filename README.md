@@ -59,6 +59,6 @@ ou_xxx: {"file_key":"file_xxx","duration":16000}
 ```
 
 如果Skill已经配置好，且客户端（OpenClaw所在的电脑）、FunASR服务端均正确运行，就会受到类似下面的消息。
-
+![](./imgs/openclaw63.png)
 
 实测下来，GLM-5模型、Ollama本地运行的qwen3.5:9b，均能正常运行。
